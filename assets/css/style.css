@@ -356,7 +356,8 @@ section .container {
   letter-spacing: 2px;
   text-transform: uppercase;
   color: #aaaaaa;
-  font-family: "Poppins", sans-serif;
+  /*font-family: "Poppins", sans-serif;*/
+  font-family: 'Ubuntu Mono', monospace;
 }
 
 .section-title h2::after {
